@@ -1,0 +1,15 @@
+﻿0
+00:00:00,000 --> 00:00:03,000
+Este vídeo mostrará el funcionamiento de nuestro Web Service
+
+1
+00:00:04,000 --> 00:00:09,000
+Tomamos por ejemplo datos de un paciente, 56 años, hombre
+
+2
+00:00:10,000 --> 00:00:16,000
+Un dolor torácico atípico, frecuencia cardiáca en reposo de 145 y un nivel de 210 mg/dl de colesterol en sangre
+
+3
+00:00:17,000 --> 00:00:22,000
+Como ven, realiza una predicción, con el porcentaje de probabilidad de pertenecer a 1 (presentar un infarto) del 92%
