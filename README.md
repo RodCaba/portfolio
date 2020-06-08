@@ -1,3 +1,3 @@
 # portfolio
-## Data Projects Portfolio
-Data projects portfolio for Rodrigo Servando Caballero Aldana 
+## Software Projects Portfolio
+Software projects portfolio for Rodrigo Servando Caballero Aldana 
