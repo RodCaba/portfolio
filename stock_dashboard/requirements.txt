@@ -42,7 +42,7 @@ pandas==0.22.0
 pandas-datareader==0.6.0
 parso==0.7.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.2.0
 plotly==2.5.1
 prompt-toolkit==3.0.5
 pyEX==0.2.1
